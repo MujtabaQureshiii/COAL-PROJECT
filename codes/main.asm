@@ -12,6 +12,8 @@ x word ?
 y word 
 dwnd word
 
-z dword 10
+z dword 10w;ld l;w d;lmww;dlmwl;dml;wdm
+
+dwndlp;kwnkl;d
 wbdwbdjkbwjkd
 vvyvhjvhj
