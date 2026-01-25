@@ -10,5 +10,4 @@ wdmnlwmnd
 wwdmowmdow
 dwdwddwdwdwdwdwwd
 dwdwdwdadawd
-wnidiownd
-downdiwaa
+
