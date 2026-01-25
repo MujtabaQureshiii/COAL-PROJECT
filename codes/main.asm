@@ -7,7 +7,5 @@ dwbndlblwd
 .bwdwbdbwd
 wdkndlknwdlknwdlknw
 wdmnlwmnd
-wwdmowmdow
-dwdwddwdwdwdwdwwd
-dwdwdwdadawd
+
 
