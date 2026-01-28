@@ -7,7 +7,4 @@ dwbndlblwd
 .bwdwbdbwd
 wdkndlknwdlknwdlknw
 wdmnlwmnd
-dbwkjdbjkwbd
-wdnlkwndwd
-dwdwdwdwwd
-dwndlknwlkd
+
