@@ -4,6 +4,5 @@ z word 7
 f wword 8
 .dat include irvive.lib
 dwbndlblwd
-.bwdwbdbwd
-wdkndlknwdlknwdlknw
-dwdwwdw
+wdwdwdd
+wdwd
