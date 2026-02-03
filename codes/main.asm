@@ -6,7 +6,4 @@ f wword 8
 dwbndlblwd
 .bwdwbdbwd
 wdkndlknwdlknwdlknw
-wdmnlwmnd
-dwndknw
-nddnwlikd
-dwjbdjkwbdjk
+dwdwwdw
