@@ -6,4 +6,3 @@ s word 5
 t word 5
 f dword 10
 L word 20
-dwbddw
