@@ -7,3 +7,4 @@ t word 5
 f dword 10
 L word 20
 T WORD 30
+i word 50
