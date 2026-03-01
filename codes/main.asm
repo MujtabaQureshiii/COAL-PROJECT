@@ -3,3 +3,4 @@ y word 6
 z word 7
 f word 10
 t word 50
+m sword 100
