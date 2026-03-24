@@ -13,7 +13,6 @@ _start:
     int 0x80
 
     mov eax, 1
-    mov ebx, 2
-    mov edx, 4
+ 
    
    
